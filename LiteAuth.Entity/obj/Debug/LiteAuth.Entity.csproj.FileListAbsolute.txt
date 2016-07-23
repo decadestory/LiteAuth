@@ -1,0 +1,6 @@
+E:\GitHub\LiteAuth\LiteAuth.Entity\bin\Debug\LiteAuth.Entity.dll
+E:\GitHub\LiteAuth\LiteAuth.Entity\bin\Debug\LiteAuth.Entity.pdb
+E:\GitHub\LiteAuth\LiteAuth.Entity\bin\Debug\Orm.Son.dll
+E:\GitHub\LiteAuth\LiteAuth.Entity\obj\Debug\LiteAuth.Entity.csprojResolveAssemblyReference.cache
+E:\GitHub\LiteAuth\LiteAuth.Entity\obj\Debug\LiteAuth.Entity.dll
+E:\GitHub\LiteAuth\LiteAuth.Entity\obj\Debug\LiteAuth.Entity.pdb

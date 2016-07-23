@@ -1,0 +1,5 @@
+E:\GitHub\LiteAuth\LiteAuth.Common\bin\Debug\LiteAuth.Common.dll
+E:\GitHub\LiteAuth\LiteAuth.Common\bin\Debug\LiteAuth.Common.pdb
+E:\GitHub\LiteAuth\LiteAuth.Common\obj\Debug\LiteAuth.Common.csprojResolveAssemblyReference.cache
+E:\GitHub\LiteAuth\LiteAuth.Common\obj\Debug\LiteAuth.Common.dll
+E:\GitHub\LiteAuth\LiteAuth.Common\obj\Debug\LiteAuth.Common.pdb
