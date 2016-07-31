@@ -1,0 +1,71 @@
+﻿ 
+@{
+    ViewBag.Title = "用户管理";
+}
+<div class="panel">
+    <div class="panel-body">
+        <div class="col-lg-2">
+            <input type="text" placeholder="用户名" class="form-control" id="normal-field">
+        </div>
+        <div class="col-lg-2">
+            <input type="text" placeholder="父级用户" class="form-control" id="normal-field">
+        </div>
+        <div class="col-lg-2">
+            <input type="text" placeholder="真实姓名" class="form-control" id="normal-field">
+        </div>
+        <div class="col-lg-2">
+            <input type="text" placeholder="手机号" class="form-control" id="normal-field">
+        </div>
+        <div class="col-lg-2">
+            <input type="text" placeholder="系统类型" class="form-control" id="normal-field">
+        </div>
+        <div class="col-lg-2">
+            <a class="btn btn-s-md btn-primary" href="#">查询</a>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="widget">
+    <div class="widget-header">
+        <i class="icon-hand-up"></i>
+        <h3>用户查询</h3>
+    </div>
+    <div class="widget-content">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        <input type="checkbox" class="checkbox" />
+                    </th>
+                    <th>用户名</th>
+                    <th>真实姓名</th>
+                    <th>手机号</th>
+                    <th>邮箱</th>
+                    <th>上级</th>
+                    <th>系统类型</th>
+                </tr>
+            </thead>
+
+            <tr>
+                <td><input type="checkbox" class="checkbox" /></td>
+                <td>Jerry</td>
+                <td>杰瑞</td>
+                <td>18961156547</td>
+                <td>jerry.core@foxmail.com</td>
+                <td>tom</td>
+                <td>后台系统</td>
+            </tr>
+        </table>
+    </div>
+    <ul class="pagination ">
+        <li><a href="#">&lt;&lt;</a></li>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&gt;&gt;</a></li>
+    </ul>
+</div>

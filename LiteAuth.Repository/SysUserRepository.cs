@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using JPager.Net;
 using LiteAuth.Repository.DbCtx;
 using Orm.Son.Core;
 
@@ -35,6 +36,10 @@ namespace LiteAuth.Repository
             }
         }
 
+        public PagerResult<SysUser> PageList()
+        {
+            var where = 
+        }
 
 
     }

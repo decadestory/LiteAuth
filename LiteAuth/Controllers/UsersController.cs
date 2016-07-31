@@ -6,13 +6,17 @@ using System.Web.Mvc;
 
 namespace LiteAuth.Controllers
 {
-    public class HomeController : Controller
+    public class UsersController : Controller
     {
-        // GET: Home
+        // GET: Users
         public ActionResult Index()
         {
             return View();
         }
 
+        public ActionResult UserRole()
+        {
+            return View();
+        }
     }
 }

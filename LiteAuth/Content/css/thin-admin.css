@@ -33,7 +33,7 @@ background-image:url(../images/a.jpg);
 
 .page-content {
 	color: #FFF;
-	padding: 20px 30px;
+	padding: 20px 20px;
 	display: table-cell;
 	float: none!important;
 }
@@ -654,7 +654,7 @@ a.thumbnail:hover, a.thumbnail:focus {
 
 .table th {
 	color: #FFFFFF;
-	font-weight: 300;
+	font-weight: 600;
 }
 
 .table-images td {
